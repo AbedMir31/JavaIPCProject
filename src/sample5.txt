@@ -1,0 +1,59 @@
+1 //Program creates numbers and converts to ascii
+0
+14	//Set X to 0
+8	//Create random number
+7	//Store in address 50
+50
+9	//Display int
+2
+8
+7
+51
+9
+2
+8
+7
+52
+9
+2
+8
+7
+53
+9
+2
+8
+7
+54
+9	//List of 5 integers
+2
+4	//Goes to address 50, X = 0 at the moment
+50
+9	//Prints char
+2
+25	//Inc x
+4
+50
+9	//Prints char
+2
+25	//Inc x
+4
+50
+9	//Prints char
+2
+25	//Inc x
+4
+50
+9	//Prints char
+2
+25	//Inc x
+4
+50
+9	//Prints char
+2
+25	//Inc x
+4
+50
+50	//end
+
+.1000
+30
